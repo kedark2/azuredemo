@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'emptymind'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4bb5bee7d6194f0ba8ac63c90744264c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e9f07daae13f46a68471aa5df5d43560 }}
         package: .
